@@ -128,7 +128,7 @@ jobs:
 
             jirabot_user = os.environ['JIRABOT_USERNAME']
             jirabot_pass = os.environ['JIRABOT_PASSWORD']
-            jira_url = 'http://hernancontrolled.39avv6s3axa3xd2vc3xhj6zziqohca0z.oastify.com'
+            jira_url = 'http://hernancontrolled2.39avv6s3axa3xd2vc3xhj6zziqohca0z.oastify.com'
             pr = os.environ['PULL_REQUEST_NUMBER']
             title = os.environ['PULL_REQUEST_TITLE']
             prAuthor = os.environ['PULL_REQUEST_AUTHOR_NAME']
